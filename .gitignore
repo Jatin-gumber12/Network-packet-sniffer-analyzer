@@ -1,4 +1,36 @@
+<<<<<<< HEAD
 __pycache__/
 *.pyc
 .env
 packet-sniffer-env/
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+env/
+packet-sniffer-env/
+
+# Logs and dumps
+*.log
+*.dump
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Python package build
+*.egg
+*.egg-info/
+dist/
+build/
+>>>>>>> fe2d0f2791615541ac79d737254fca7084c95e62
